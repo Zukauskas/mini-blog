@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "gray-matter": "^4.0.3",
     "next": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0"
@@ -14,7 +15,6 @@
   "description": "This is a starter template for [Learn Next.js](https://nextjs.org/learn).",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "author": "Tautvydas (https://github.com/Zukauskas)",
   "license": "MIT"
 }
