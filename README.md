@@ -8,3 +8,4 @@ This is based on a tutorial in [Learn Next.js](https://nextjs.org/learn).
 -   [ ] Add a custom CSS styles
 -   [ ] Add interactive elements like buttons
 -   [ ] Add a custom favicon
+-   [ ] Change thumbnail image(?)
